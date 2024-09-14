@@ -1,9 +1,4 @@
-//
-//  ContentView.swift
-//  swift_ui_playground
-//
-//  Created by 上村祐介 on 2024/09/14.
-//
+
 
 import SwiftUI
 import SwiftData
